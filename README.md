@@ -8,5 +8,4 @@ In this project I have predicted the price for State Bank of India (SBIN) Stock.
 -	Model Building
 -	Prediction
 
-![GitHub Logo](/Documents/Work/Github/Images/LSTM_Stock_Price_Prediction.JPG)
-Format: ![Alt Text](url)
+![](LSTM_Stock_Price_Prediction.JPG)
