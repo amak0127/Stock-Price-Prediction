@@ -7,3 +7,6 @@ In this project I have predicted the price for State Bank of India (SBIN) Stock.
 -	Creating Sliding Window
 -	Model Building
 -	Prediction
+
+![GitHub Logo](/Documents/Work/Github/Images/LSTM_Stock_Price_Prediction.JPG)
+Format: ![Alt Text](url)
